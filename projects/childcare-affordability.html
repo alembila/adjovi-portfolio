@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Childcare Affordability Analysis | Adjovi Gloria</title>
+  <link rel="stylesheet" href="../style.css">
+  <style>
+    .case-hero{padding:150px 0 80px;background:#081a2f;color:white}.case-hero h1{font-size:clamp(2.7rem,6vw,5rem)}
+    .case-hero p{color:#c3cfdd;max-width:800px}.case-body{padding:85px 0}.case-grid{display:grid;grid-template-columns:1fr 320px;gap:55px}
+    .case-main section{margin-bottom:48px}.case-main h2{font-size:2rem}.case-aside{position:sticky;top:105px;height:max-content;padding:25px;background:#f6f1e8;border-radius:20px}
+    .case-aside div{padding:14px 0;border-bottom:1px solid #ded7cb}.case-aside div:last-child{border:0}.case-aside span{display:block;color:#c89a4b;font-size:.72rem;font-weight:800;text-transform:uppercase}
+    @media(max-width:850px){.case-grid{grid-template-columns:1fr}.case-aside{position:static}}
+  </style>
+</head>
+<body>
+<header class="site-header"><nav class="nav container"><a class="brand" href="../index.html"><span class="brand-mark">AG</span><span>Adjovi Gloria</span></a><a href="../index.html#projects">← Back to Portfolio</a></nav></header>
+<section class="case-hero"><div class="container"><p class="eyebrow">APPLIED DATA SCIENCE CASE STUDY</p><h1>Childcare Affordability & Workforce Participation</h1><p>An end-to-end analysis of childcare prices, household affordability burden, geographic differences, and female labor-force participation.</p></div></section>
+<main class="case-body"><div class="container case-grid"><div class="case-main">
+<section><h2>Project Overview</h2><p>This project examines childcare affordability as a workforce and economic participation issue using the National Database of Childcare Prices.</p></section>
+<section><h2>Business Problem</h2><p>High childcare costs can place pressure on household budgets and may affect workforce decisions. Employers, workforce organizations, and policymakers need clear local evidence without assuming that childcare cost alone determines employment behavior.</p></section>
+<section><h2>Data Preparation</h2><p>The final CSV contains 48,308 rows and 370 columns. Column names were standardized, duplicates removed, selected variables converted to numeric values, weekly prices annualized, and affordability burden calculated as annual infant center-care cost divided by median household income.</p></section>
+<section><h2>Methods</h2><p>The project uses exploratory data analysis, cost comparisons by age and provider type, geographic summaries, correlation analysis, and multiple linear regression with an 80/20 train-test split and five-fold cross-validation.</p></section>
+<section><h2>Key Findings</h2><p>Average annual center-based infant care was approximately $8,006.74, compared with $6,288.55 for family-based care. Average affordability burden was 16.24%. The regression produced weak predictive performance, indicating that the selected variables explain only a small share of workforce participation differences.</p></section>
+<section><h2>Interpretation</h2><p>The weak model is itself an important finding. Other relevant factors may include wages, occupation, flexible work opportunities, transportation, paid leave, childcare supply, family structure, and local labor demand.</p></section>
+<section><h2>Ethical Considerations</h2><p>County-level averages should not be applied to individual families, and statistical association should not be presented as causation. The model should not be used to judge parents or automatically allocate resources.</p></section>
+</div><aside class="case-aside">
+<div><span>Tools</span><strong>Python, Pandas, NumPy, Matplotlib, Scikit-learn</strong></div>
+<div><span>Methods</span><strong>EDA, Correlation, Multiple Linear Regression</strong></div>
+<div><span>Validation</span><strong>Train-Test Split, Five-Fold Cross-Validation</strong></div>
+<div><span>Domain</span><strong>Workforce, Policy & Economic Analytics</strong></div>
+</aside></div></main>
+</body></html>

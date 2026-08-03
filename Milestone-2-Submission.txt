@@ -1,0 +1,23 @@
+PORTFOLIO MILESTONE 2 SUBMISSION
+
+Student: Adjovi Gloria
+Course: DSC 680 Applied Data Science
+Assignment: 8.1 Portfolio Milestone 2
+
+Portfolio Website:
+[PASTE YOUR GITHUB PAGES URL HERE]
+
+GitHub Repository:
+[PASTE YOUR GITHUB REPOSITORY URL HERE]
+
+Milestone Summary:
+
+For Portfolio Milestone 2, I created the public-facing structure of my data science portfolio using GitHub Pages. The portfolio is designed to provide employers with a clear and immediate overview of my professional identity, technical capabilities, business perspective, and selected data science work.
+
+The website includes Home, About, Projects, Skills, Resume, and Contact sections. The About section is fully populated and explains my multidisciplinary background in data science, business, construction engineering, military surveying, risk operations, and fraud analysis. It also identifies the industries and business problems that most closely align with my interests.
+
+The Projects section presents selected work from my graduate program through employer-focused project cards. It currently highlights projects in fraud detection, childcare affordability, time-series forecasting, data storytelling, generative AI, and data preparation. Two projects include expanded case-study pages: Credit Card Fraud Detection Using Predictive Analytics and Childcare Affordability and Workforce Participation Analysis.
+
+The portfolio uses professional naming conventions, responsive design, clear navigation, consistent visual styling, and links that can be connected to the related GitHub repositories. I also created a structure for adding my resume, professional contact information, and additional completed projects as the course continues.
+
+Before submitting, I reviewed the site to confirm that the navigation, filters, case-study links, and mobile layout function correctly.
