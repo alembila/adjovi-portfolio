@@ -1,6 +1,6 @@
 # Adjovi Lembila Akpaki - Data Science & AI Portfolio
 
-This repository is an evidence-first professional portfolio for data science, analytics, machine learning, and Generative AI work. The website is designed for employers and technical reviewers who want both a concise project overview and access to detailed documentation.
+This repository showcases my professional portfolio of applied Data Science, Machine Learning, Artificial Intelligence, Generative AI, and advanced analytics projects. I use this portfolio to demonstrate how I approach real-world problems from data preparation and exploratory analysis through model development, evaluation, interpretation, and business recommendations. My work includes hands-on experience with Python, SQL, predictive modeling, deep learning, NLP, Retrieval-Augmented Generation (RAG), OpenAI API workflows, Azure AI concepts, MLflow/MLOps, data visualization, and responsible AI. Each project includes detailed documentation, code, notebooks, results, limitations, and key insights. This portfolio is designed to give recruiters, hiring managers, and technical reviewers a clear view of my technical capabilities, analytical thinking, and ability to translate data and AI solutions into meaningful business value.
 
 ## Live Portfolio
 
