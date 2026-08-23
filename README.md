@@ -1,78 +1,66 @@
-# Adjovi Gloria — Data Science Portfolio
+# Adjovi Lembila Akpaki - Data Science & AI Portfolio
 
-This repository contains the public-facing portfolio created for **DSC 680 Applied Data Science, Portfolio Milestone 2**.
+This repository is an evidence-first professional portfolio for data science, analytics, machine learning, and Generative AI work. The website is designed for employers and technical reviewers who want both a concise project overview and access to detailed documentation.
 
 ## Live Portfolio
 
-After GitHub Pages is enabled, add the live URL here:
+GitHub Pages: `https://alembila.github.io/adjovi-portfolio/`
 
-`https://YOUR-GITHUB.github.io/YOUR-REPOSITORY/`
+## Portfolio Structure
 
-## Portfolio Sections
+- `index.html` - main employer-facing portfolio site
+- `documentation/index.html` - documentation hub with project evidence and artifact links
+- `assets/` - current recruiter-facing resume in PDF and editable DOCX formats
+- `projects/` - 10 organized project folders
+- `style.css` - responsive visual design
+- `script.js` - navigation, project filtering, reveal animations, and footer year
 
-- Home
-- About
-- Featured Projects
-- Technical Skills
-- Resume
-- Contact
+## Ten Selected Projects
 
-The **About** section is fully populated for Milestone 2. The portfolio also includes project cards and two completed case-study pages.
+1. Employee Attrition Prediction
+2. Credit Card Fraud Detection
+3. Fuel Efficiency Prediction - Auto MPG
+4. Predicting Mature Content in Netflix Titles
+5. MNIST Handwritten Digit CNN
+6. Movie Recommender System
+7. PCA & Feature Selection
+8. IMDB Sentiment Analysis
+9. Generative AI Engineering, RAG & Azure AI Safety
+10. Health & Economic Data Integration
 
-## Included Case Studies
+## AI / Generative AI Evidence
 
-1. Credit Card Fraud Detection Using Predictive Analytics
-2. Childcare Affordability and Workforce Participation Analysis
+The Generative AI project folder contains multiple artifacts demonstrating work with:
 
-Additional project cards are included as presentation shells and can be connected to their final GitHub repositories as those repositories are completed.
+- OpenAI API prompt workflows
+- Retrieval-Augmented Generation (RAG)
+- TF-IDF retrieval and cosine similarity
+- supervised fine-tuning workflows
+- Stable Diffusion API image generation/editing
+- MLflow experiment tracking and GenAI observability
+- Microsoft Azure AI Content Safety
+- Prompt Shields and groundedness concepts
+- responsible AI and agent-safety considerations
 
-## Before Publishing
+## Documentation Standard
 
-Search the project files for `YOUR_` and replace:
+Each project is organized to make the analytical process easy to review. Documentation emphasizes:
 
-- `YOUR_EMAIL@example.com`
-- `YOUR-LINKEDIN`
-- `YOUR-GITHUB`
-- `YOUR-REPOSITORY`
+1. Business problem / research question
+2. Dataset and data-quality considerations
+3. Data preparation and feature engineering
+4. Analytical or modeling method
+5. Evaluation metrics and results
+6. Business interpretation
+7. Limitations and ethical considerations
+8. Reproducibility and supporting artifacts
 
-Add these files:
+## Technical Toolkit
 
-- Professional photo, if desired
-- Current resume saved as `assets/Adjovi-Gloria-Resume.pdf`
+Python, SQL, R, pandas, NumPy, scikit-learn, TensorFlow, Keras, PyTorch, OpenAI API, RAG, MLflow, Azure AI Content Safety, Power BI, Tableau, Matplotlib, Excel, Jupyter Notebook, Git, and GitHub.
 
-## Publish with GitHub Pages
+## Contact
 
-1. Create a new GitHub repository.
-2. Upload all files and folders from this portfolio package.
-3. Open **Settings** in the repository.
-4. Select **Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select the `main` branch and `/root`.
-7. Click **Save**.
-8. Wait a few minutes for the public URL to appear.
+Email: adjovig38@gmail.com
 
-## File Structure
-
-```text
-.
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-├── assets/
-│   └── ADD-YOUR-RESUME-HERE.txt
-└── projects/
-    ├── fraud-detection.html
-    └── childcare-affordability.html
-```
-
-## Design Notes
-
-The site uses responsive HTML, CSS, and JavaScript. It includes:
-
-- Mobile navigation
-- Project filtering
-- Scroll animations
-- Employer-focused introductory content
-- Consistent project naming and documentation
-- Accessible headings and navigation labels
+GitHub: `https://github.com/alembila/adjovi-portfolio`

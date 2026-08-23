@@ -1,0 +1,10 @@
+FINAL PORTFOLIO SUBMISSION
+
+Student: Adjovi Gloria
+Course: DSC 680 Applied Data Science
+Assignment: 11.2 Final Portfolio Submission
+
+GitHub Pages: https://alembila.github.io/adjovi-portfolio/
+GitHub Repository: https://github.com/alembila/adjovi-portfolio
+
+The final portfolio contains About, Work/Projects, Skills, Resume, and Contact sections. The Work/Projects section includes ten projects with employer-focused summaries and direct access to detailed project folders. The repository uses consistent numbered folders, descriptive filenames, project README documentation, and primary code/report artifacts. The final portfolio replaces the earlier Milestone 2 placeholders with completed work and presents technical breadth across data preparation, predictive analytics, machine learning, deep learning, NLP, generative AI, RAG, Azure AI safety, MLOps, visualization, and applied data science.
